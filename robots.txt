@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://construgilmtv.com.br
+Sitemap: https://www.construgilmtv.com.br/sitemap.xml
